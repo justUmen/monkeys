@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         background_js_img
 // @namespace    http://tampermonkey.net/
-// @version      0.e
+// @version      0.3
 // @description  ...
 // @author       You
 // @match        https://*.github.com/*
