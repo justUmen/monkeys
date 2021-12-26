@@ -14,6 +14,7 @@
 // @match        http://*.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?domain=youtube.com
 // @downloadURL  https://raw.githubusercontent.com/justUmen/monkeys/main/background_js_video.js
+// @updateURL  https://raw.githubusercontent.com/justUmen/monkeys/main/background_js_video.js
 // ==/UserScript==
 var VIDEO = document.createElement('video');
 function page_blur(){

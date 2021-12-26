@@ -16,6 +16,7 @@
 // @grant        GM_addStyle
 // @run-at        document-start
 // @downloadURL  https://raw.githubusercontent.com/justUmen/monkeys/main/background_css.js
+// @updateURL  https://raw.githubusercontent.com/justUmen/monkeys/main/background_css.js
 // ==/UserScript==
 
 (function() {
