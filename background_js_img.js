@@ -15,6 +15,7 @@
 // @icon         https://www.google.com/s2/favicons?domain=youtube.com
 // @resource image_created_by_thunar http://localhost:8889/image_created_by_thunar.jpg?15
 // @grant        GM_getResourceURL
+// @downloadURL  https://raw.githubusercontent.com/justUmen/monkeys/main/background_js_img.js
 // ==/UserScript==
 (function() {
     'use strict';
