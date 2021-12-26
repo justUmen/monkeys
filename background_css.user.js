@@ -15,7 +15,7 @@
 // @icon         https://www.google.com/s2/favicons?domain=youtube.com
 // @grant        GM_addStyle
 // @run-at        document-start
-// @downloadURL  https://raw.githubusercontent.com/justUmen/monkeys/main/background_css_user.js
+// @downloadURL  https://raw.githubusercontent.com/justUmen/monkeys/main/background_css.user.js
 // ==/UserScript==
 
 (function() {
